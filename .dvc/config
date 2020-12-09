@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "data"']
+    url = ../solla_mlops_bucket1
+['remote "myremote"']
+    url = gs://solla_mlops_bucket1
